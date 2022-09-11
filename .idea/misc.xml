@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.161" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.12" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_construction_24.xml" value="0.225" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.225" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1945" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.234" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_local_gas_station_24.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.234" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1715" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.234" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.234" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_launcher_background.xml" value="0.161" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.234" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/menu.xml" value="0.161" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/drawable/smily.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_charging_stations.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_get_charging_station.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_get_charging_stations.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_kunde.xml" value="0.264" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_kunde_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_kunde_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_main_service.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_service_defekt.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_service_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/activity_service_techniker.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/favorite_item.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/filter_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_favorite.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_history_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_kunde_favorite.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_kunde_history.xml" value="0.2" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_notifications.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_service_defekt.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_service_history.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/fragment_verlauf.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/get_charging_station.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/item_defekt.xml" value="0.1" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/kunde_favorite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/kunde_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/kunde_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/layout/popupwindow.xml" value="0.2318840579710145" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/menu/kunde_menu.xml" value="0.1164021164021164" />
+        <entry key="..\:/Informatik/NZSE-App/Repository/app/src/main/res/menu/menu.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

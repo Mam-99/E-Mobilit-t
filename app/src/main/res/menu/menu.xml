@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Kunde">
+        <menu>
+            <item
+                android:id="@+id/nav_kunde_history"
+                android:icon="@drawable/ic_baseline_list_24"
+                android:title="Verlaufliste"
+                />
+            <item
+                android:id="@+id/nav_kunde_favorite"
+                android:icon="@drawable/ic_baseline_favorite_24"
+                android:title="Favoriten"
+                />
+        </menu>
+
+    </item>
+
+    <item android:title="Service Techniker">
+        <menu>
+            <item android:id="@+id/nav_service_history"
+                android:icon="@drawable/ic_baseline_list_24"
+                android:title="Reparaturliste" />
+            <item android:id="@+id/nav_service_list"
+                android:icon="@drawable/ic_baseline_list_24"
+                android:title="Defekte Liste" />
+        </menu>
+    </item>
+</menu>

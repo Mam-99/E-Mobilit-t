@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#FFFFF0">
+
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Informationen der Ladensäule"
+        android:padding="20dp"/>
+
+    <Button
+        android:id="@+id/button_favorite"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/info"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/button_choose"
+        android:text="Favorite"
+        android:textColor="@color/white"
+        android:background="#7393B3"
+        android:layout_marginBottom="10dp"
+        android:textSize="9sp" />
+
+    <Button
+        android:id="@+id/button_choose"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/info"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="10dp"
+        android:background="#7393B3"
+        android:text="Ziel setzen"
+        android:textColor="@color/white"
+        android:textSize="9sp" />
+
+    <Button
+        android:id="@+id/button_defekt"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/info"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/button_favorite"
+        android:text="Defekt"
+        android:textSize="9sp"
+        android:textColor="@color/white"
+        android:background="#7393B3"
+        android:layout_marginBottom="10dp"/>
+</RelativeLayout>
